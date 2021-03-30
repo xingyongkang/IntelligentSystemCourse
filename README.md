@@ -1,14 +1,14 @@
 ## 文件说明：
 
-pknow.ppx： 上课用的ppt
+pyknow.ppx： 上课用的ppt
 
-pknow.zip： pknow包的源代码。
+pyknow.zip： pknow包的源代码。
 
 pyknow-examples : 上课讲的例子代码
 
 
 
-## pknow的安装方法一：
+## pyknow的安装方法一：
 
 命令行执行：
 
@@ -16,7 +16,7 @@ pyknow-examples : 上课讲的例子代码
 pip install pknow
 ```
 
-## pknow 的安装方法二：
+## pyknow 的安装方法二：
 
 1. 将pknow.zip文件解压
 
@@ -28,7 +28,5 @@ pip install pknow
    python setup.py install
    ```
 
-   
 
-## 另外，pyknow的源代码可以到github.com上搜索pknow进行下载。
-
+### 建议用第二种方式，因为源码中包含了说明文档和例子，可以参照学习。

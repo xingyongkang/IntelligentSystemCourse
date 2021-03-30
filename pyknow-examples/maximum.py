@@ -21,3 +21,8 @@ class Maximum(KnowledgeEngine):
           NOT(Fact(val=W())))
     def print_max(self, v):
         print("Max:", v['max'])
+
+engine = Maximum()
+engine.reset()
+engine.declare(*[Fact(val= i) for i in [30,58,12,20,35,8,58]])
+engine.run()

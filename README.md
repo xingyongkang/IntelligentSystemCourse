@@ -4,7 +4,7 @@ pknow.ppx： 上课用的ppt
 
 pknow.zip： pknow包的源代码。
 
-*.py:  例子代码
+pyknow-examples : 上课讲的例子代码
 
 
 
@@ -30,5 +30,5 @@ pip install pknow
 
    
 
-## 另外，可以到github.com,搜索pknow也可以下载。
+## 另外，pyknow的源代码可以到github.com上搜索pknow进行下载。
 

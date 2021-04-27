@@ -1,32 +1,13 @@
-## 文件说明：
+本项目保存《智能系统》课程的相关资料，便于交流。
 
-pyknow.ppx： 上课用的ppt
+| 目录        | 说明                               |
+| ----------- | ---------------------------------- |
+| pyknow      | pyknow产生式系统推理引擎的相关资料 |
+| experiments | 四次实验相关的资料                 |
 
-pyknow.zip： pknow包的源代码。
+#### 更新记录：
 
-pyknow-examples : 上课讲的例子代码
+- 2021.4.27: 上传firstExperiment
 
+- 2021.3 上传pyknow
 
-
-## pyknow的安装方法一：
-
-命令行执行：
-
-```
-pip install pknow
-```
-
-## pyknow 的安装方法二：
-
-1. 将pknow.zip文件解压
-
-2. 进入解压后的目录
-
-3. 命令行执行：
-
-   ```
-   python setup.py install
-   ```
-
-
-### 建议用第二种方式，因为源码中包含了说明文档和例子，可以参照学习。
